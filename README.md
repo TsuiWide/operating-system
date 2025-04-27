@@ -1,3 +1,3 @@
 
 ## books
-* [books](books)
+* [books](books.md)
