@@ -14,3 +14,4 @@
 # 参考资料
 *  [Understanding x86_64 Paging](https://github.com/zolutal/zolutal.github.io/blob/master/_posts/2023-12-27-understanding-paging.md)
 *  [Paging](https://wiki.osdev.org/Paging)
+*  [x86-paging](https://cs4118.github.io/www/2023-1/lect/18-x86-paging.html)
